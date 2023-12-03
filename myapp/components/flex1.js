@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const flex1 = () => {
+const flex = () => {
   return (
     <View>
-      <Text>flex1</Text>
+      <Text>flex</Text>
     </View>
   )
 }
 
-export default flex1
+export default flex
 
 const styles = StyleSheet.create({})
