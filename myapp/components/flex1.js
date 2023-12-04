@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const flex = () => {
+const flex1 = () => {
   return (
     <View>
       <Text>flex</Text>
@@ -9,6 +9,6 @@ const flex = () => {
   )
 }
 
-export default flex
+export default flex1
 
 const styles = StyleSheet.create({})
