@@ -4,7 +4,7 @@ import React from 'react'
 const Flex3 = () => {
   return (
     <View>
-      <Text>Flex </Text>
+      <Text>Flex3 </Text>
     </View>
   )
 }
