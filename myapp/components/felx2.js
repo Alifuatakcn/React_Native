@@ -4,7 +4,7 @@ import React from 'react'
 const Felx2 = () => {
   return (
     <View>
-      <Text>Felx2</Text>
+      <Text>Flex2</Text>
     </View>
   )
 }
