@@ -3,7 +3,8 @@ import React from 'react'
 
 const Felx2 = () => {
   return (
-    <View>
+    <View> 
+      <Text>Flex1</Text>
       <Text>Flex2</Text>
       <Text>Flex3</Text>
       <Text>Flex4</Text>
