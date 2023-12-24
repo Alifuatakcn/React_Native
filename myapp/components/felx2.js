@@ -9,7 +9,7 @@ const Felx2 = () => {
       <Text>Flex3</Text>
       <Text>Flex4</Text>
       <Text>Flex5</Text>
-      <Text>Flex6</Text>
+      
     </View>
   )
 }
