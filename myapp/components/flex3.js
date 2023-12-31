@@ -7,6 +7,7 @@ const Flex3 = () => {
       <Text>Flex3 </Text>
       <Text>flex2 </Text>
       <Text>Flex1 </Text>
+      <Text>Flex4 </Text>
     </View>
   )
 }
