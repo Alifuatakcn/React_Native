@@ -5,6 +5,7 @@ export default class flex4 extends Component {
   render() {
     return (
       <View>
+        <Text>flex1</Text>
         <Text>flex4</Text>
       </View>
     )
