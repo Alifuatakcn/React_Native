@@ -10,6 +10,7 @@ export default class flex4 extends Component {
         <Text>flex3</Text>
         <Text>flex4</Text>
         <Text>flex5</Text>
+        <Text>flex6</Text>
       </View>
     )
   }
