@@ -4,7 +4,7 @@ import React from 'react'
 const flex1 = () => {
   return (
     <View>
-      <Text>flex</Text>
+      <Text>flex1</Text>
       <Text>flex2</Text>
       <Text>flex3</Text>
       <Text>flex4</Text>
